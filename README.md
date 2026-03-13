@@ -8,3 +8,5 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 ## Gráfico de despesas da Prefeitura de São José dos Campos 
 Trabalho executado via Excel: Gráfico dinâmico, formatação e uso de funções (SOMASE, CONTSE)
 
+https://github.com/Artur08gfndfghn/informatica/blob/main/Captura%20de%20tela%202026-03-13%20200533.png
+
