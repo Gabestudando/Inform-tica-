@@ -9,4 +9,8 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 Trabalho executado via Excel: Gráfico dinâmico, formatação e uso de funções (SOMASE, CONTSE)
 
 https://github.com/Artur08gfndfghn/informatica/blob/main/Captura%20de%20tela%202026-03-13%20200533.png
+## multas pagas sjc
+Trabalho executado via Excel: Gráfico dinâmico, formatação e uso de funções (SOMASE, MÁXIMO)
+<img width="1520" height="418" alt="image" src="https://github.com/user-attachments/assets/27481bd9-440f-4d7a-beb2-007b26daf3e8" />
+
 
