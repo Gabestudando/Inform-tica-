@@ -4,7 +4,13 @@ Atividade em equipe utilizando software de design gráfico.
 Trabalho executado  via Canva: Animações e Figuras.
 <img width="1192" height="669" alt="image" src="https://github.com/user-attachments/assets/1dece453-994e-4597-b390-36d769d92a00" />
 https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content=DAHB0HgcKdU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2edf209d5
-
+## Trabalho executado via excel: Formatação de tabelas e remoção de duplicatas.
+## Trabalho executado via excel: Funções e formatações de dados.
+## Trabalho executado via excel: Funções de soma e concatenação de informações (CONTSE&SOMASE). 
+## Trabalho executado via Excel: Funções e formatações de gráficos (PROCV).
+## Trabalho executado via excel: Função SOMASE e questões.
+## Trabalho executado via excel: Uso de fórmulas e questões (Dados abertos SP - Volume Total Transportado Travessias 2019 ).
+## 
 ## Gráfico de despesas da Prefeitura de São José dos Campos 
 Trabalho executado via Excel: Gráfico dinâmico, formatação e uso de funções (SOMASE, CONTSE)
 
