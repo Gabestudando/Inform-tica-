@@ -1,4 +1,4 @@
-# Inform-tica-
+# INFORMÁTICA
 Atividades na disciplina de informática do CST em logística 
 
 ## Trabalho em equipe executado  via Canva: Apresentação Hobbies, O que a musica representa para nós e Curiosidades Aleatórias
