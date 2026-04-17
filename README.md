@@ -6,6 +6,7 @@ Trabalho executado  via Canva: Animações e Figuras.
 https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content=DAHB0HgcKdU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2edf209d5
 ## Trabalho executado via excel: Formatação de tabelas e remoção de duplicatas.
 <img width="1820" height="474" alt="image" src="https://github.com/user-attachments/assets/4ce26427-5ffe-45a7-b912-abe6678f3f53" />
+-
 ## Trabalho executado via excel: Funções e formatações de dados.
 <img width="444" height="275" alt="image" src="https://github.com/user-attachments/assets/9677d8b4-9021-47c5-a2e7-681e9f3d9204" />
 ## Trabalho executado via Excel: Gráfico dinâmico, formatação e uso de funções (SOMASE, CONTSE)
