@@ -30,6 +30,13 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 <img width="730" height="749" alt="image" src="https://github.com/user-attachments/assets/47eb05ef-d6d9-4aba-b2cd-35d70c4c3c17" />
 <img width="469" height="332" alt="image" src="https://github.com/user-attachments/assets/af17f4ac-b946-42c1-8bbd-bb7e17149774" />
 
+## Trabalho executado via Power BI: Manipulação de dados para criação de Gráficos Dinâmicos (Dados abertos SP - Eventos de Sinistros Mar 26 & Projetos Sociais SP)
+<img width="1353" height="767" alt="image" src="https://github.com/user-attachments/assets/9647d9e7-7abd-4c1c-8384-5f7fc2d743d1" />
+<img width="1181" height="796" alt="image" src="https://github.com/user-attachments/assets/3f45df92-a9ed-412b-9469-0b58a2332f05" />
+
+
+
+
 
 
 
