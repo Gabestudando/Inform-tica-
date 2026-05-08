@@ -34,7 +34,8 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 <img width="1353" height="767" alt="image" src="https://github.com/user-attachments/assets/9647d9e7-7abd-4c1c-8384-5f7fc2d743d1" />
 <img width="1181" height="796" alt="image" src="https://github.com/user-attachments/assets/3f45df92-a9ed-412b-9469-0b58a2332f05" />
 
-
+## Trabalho executado via Power BI: Modelagem de dados tratamento de dados fórmulas DAX (Dados abertos SP - Trabalho Formal e Municipio)
+<img width="1324" height="809" alt="image" src="https://github.com/user-attachments/assets/1724abf0-9289-4e39-a454-cdde9c6027df" />
 
 
 
