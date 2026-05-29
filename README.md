@@ -37,6 +37,8 @@ https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content
 ## Trabalho executado via Power BI: Modelagem de dados tratamento de dados fórmulas DAX (Dados abertos SP - Trabalho Formal e Municipio)
 <img width="1324" height="809" alt="image" src="https://github.com/user-attachments/assets/1724abf0-9289-4e39-a454-cdde9c6027df" />
 ## Trabalho executado via Excel: Regressão linear (Ice Cream Sales AND Temperature)
+<img width="478" height="285" alt="image" src="https://github.com/user-attachments/assets/21f09f0e-f199-420a-b925-6abd315cb16a" />
+
 
 
 
